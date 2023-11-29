@@ -2,6 +2,8 @@
 
 ![demo.png](image/demo.png)
 
+Thanks For : https://github.com/twri/sdxl_prompt_styler
+
 ## 简单的风格介绍
 
 均以以下提示词出图（为SDXL出图）
