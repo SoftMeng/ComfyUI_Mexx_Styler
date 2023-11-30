@@ -1,6 +1,6 @@
 [
   {
-    "name": "黑暗摄影(默认)",
+    "name": "黑暗摄影(慎)",
     "prompt": "dark Style,emitting a sense of dilapidation,a painting,{prompt},natural skin texture,intricate details,background of horror movies,perfect detailed,extremely detailed,hyper detailedextremely detailed,deep shadows,vibrant colors,dynamic Lighting,hard focus",
     "negative_prompt": "anime, crayon, sketch, graphite, impressionist, noisy, blurry, deformed, ugly"
   },
