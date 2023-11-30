@@ -68,5 +68,10 @@
     "name": "复杂细节",
     "prompt": "highly detailed, intricate details, extremely detailed, {prompt}, film, decorated with complex patterns and exquisite lines",
     "negative_prompt": "anime, crayon, sketch, graphite, impressionist, noisy, blurry, deformed, ugly"
+  },
+  {
+    "name": "全方位增强",
+    "prompt": "intricate details,{prompt},extremely detailed,hdr,sharp focus,cinematic light,deep shadows,muted colors,aerial perspective,unimaginable beauty,glorification",
+    "negative_prompt": ""
   }
 ]
