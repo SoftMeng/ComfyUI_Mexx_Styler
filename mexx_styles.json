@@ -1,13 +1,23 @@
 [
   {
-    "name": "黑暗摄影(慎)",
-    "prompt": "dark Style,emitting a sense of dilapidation,a painting,{prompt},natural skin texture,intricate details,background of horror movies,perfect detailed,extremely detailed,hyper detailedextremely detailed,deep shadows,vibrant colors,dynamic Lighting,hard focus",
-    "negative_prompt": "anime, crayon, sketch, graphite, impressionist, noisy, blurry, deformed, ugly"
-  },
-  {
     "name": "无",
     "prompt": "{prompt}",
     "negative_prompt": ""
+  },
+  {
+    "name": "摄影(亚洲人)",
+    "prompt": "photography,intricate details,k-pop,{prompt},professional,hdr,Leica M50 F/2.8,deep Shadows,vivid colorsexposure Mixing,sharp focus,glorification",
+    "negative_prompt": "anime, drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, deformed, ugly"
+  },
+  {
+    "name": "黑暗摄影(慎)",
+    "prompt": "dark style,emitting a sense of dilapidation,a painting,{prompt},natural skin texture,intricate details,background of horror movies,perfect detailed,extremely detailed,hyper detailedextremely detailed,deep shadows,vibrant colors,dynamic Lighting,hard focus",
+    "negative_prompt": "anime, crayon, sketch, graphite, impressionist, noisy, blurry, deformed, ugly"
+  },
+  {
+    "name": "黑暗摄影(慎·亚洲人)",
+    "prompt": "dark style,emitting a sense of dilapidation,k-pop,a painting,{prompt},natural skin texture,intricate details,background of horror movies,perfect detailed,extremely detailed,hyper detailedextremely detailed,deep shadows,vibrant colors,dynamic Lighting,hard focus",
+    "negative_prompt": "anime, crayon, sketch, graphite, impressionist, noisy, blurry, deformed, ugly"
   },
   {
     "name": "摄影棚",
@@ -72,6 +82,16 @@
   {
     "name": "全方位增强",
     "prompt": "intricate details,{prompt},extremely detailed,hdr,sharp focus,cinematic light,deep shadows,muted colors,aerial perspective,unimaginable beauty,glorification",
+    "negative_prompt": ""
+  },
+  {
+    "name": "复杂细节(亚洲人)",
+    "prompt": "highly detailed,intricate details,extremely detailed,k-pop,{prompt}, film, decorated with complex patterns and exquisite lines",
+    "negative_prompt": "anime, crayon, sketch, graphite, impressionist, noisy, blurry, deformed, ugly"
+  },
+  {
+    "name": "全方位增强(亚洲人)",
+    "prompt": "intricate details,k-pop,{prompt},extremely detailed,hdr,sharp focus,cinematic light,deep shadows,muted colors,aerial perspective,unimaginable beauty,glorification",
     "negative_prompt": ""
   }
 ]
