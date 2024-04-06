@@ -227,7 +227,7 @@ class MexxSDXLPromptStyler:
     RETURN_TYPES = ('STRING','STRING',)
     RETURN_NAMES = ('text_positive','text_negative',)
     FUNCTION = 'prompt_styler'
-    CATEGORY = 'utils'
+    CATEGORY = 'ComfyUI_Mexx'
 
     def prompt_styler(self, text_positive, text_negative, style, log_prompt):
         # Process and combine prompts in templates
