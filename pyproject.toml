@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_mexx_styler"
+description = "Nodes: ComfyUI Mexx Styler, ComfyUI Mexx Styler Advanced"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/SoftMeng/ComfyUI_Mexx_Styler"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_Mexx_Styler"
+Icon = ""
